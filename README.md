@@ -31,7 +31,7 @@ Follow these instructions to use the Penguin Species Classification Tool:
 9.	Your prediction result will appear under the “Predict Species” button, labeled as “Predicted Penguin Species:”.<br><br><br>
     
 
-![1](https://github.com/user-attachments/assets/bb0d37ba-ffce-4a03-a2ed-748e77267751)
+<img src="https://github.com/user-attachments/assets/bb0d37ba-ffce-4a03-a2ed-748e77267751" alt="1" width="500">
 
 <br>
 
