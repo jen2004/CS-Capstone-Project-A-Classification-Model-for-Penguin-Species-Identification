@@ -24,7 +24,16 @@ Follow these instructions to use the Penguin Species Classification Tool:
 6.	 After a few seconds, scroll to the bottom of the output cell. A button labeled “Choose Files” will appear. Click this button, select the “penguin_dataset.csv” file from the location where you saved it, and click “Open”. This will upload the file to Colab’s temporary storage.
 7.	Once the code finishes running, scroll down to the bottom of the output cell. You will see a green button labeled “Predict Species”. Above this button, there are text boxes where you can input values for bill length and bill depth to get a prediction for the penguin species.
 8.	Input the bill length and bill depth (in millimeters) into the respective boxes. Enter a bill length between 32.0 mm and 60.0 mm, and a bill depth between 13.0 mm and 22.0 mm. Round your inputs to the nearest 0.1 mm. Then, Click the “Predict Species” button.
+
+![2](https://github.com/user-attachments/assets/774a2b58-e75e-44c4-9929-8ad0acfa5491)
+
+
 9.	Your prediction result will appear under the “Predict Species” button, labeled as “Predicted Penguin Species:”.
+    
+
+![1](https://github.com/user-attachments/assets/bb0d37ba-ffce-4a03-a2ed-748e77267751)
+
+
 10.	Below the species prediction tool, you can view the accuracy analysis for the model, including the accuracy percentage and the confusion matrix.
 
 
