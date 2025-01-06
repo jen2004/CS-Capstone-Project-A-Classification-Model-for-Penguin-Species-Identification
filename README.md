@@ -28,11 +28,12 @@ Follow these instructions to use the Penguin Species Classification Tool:
 ![2](https://github.com/user-attachments/assets/774a2b58-e75e-44c4-9929-8ad0acfa5491)
 
 
-9.	Your prediction result will appear under the “Predict Species” button, labeled as “Predicted Penguin Species:”.
+9.	Your prediction result will appear under the “Predict Species” button, labeled as “Predicted Penguin Species:”.<br><br>
     
 
 ![1](https://github.com/user-attachments/assets/bb0d37ba-ffce-4a03-a2ed-748e77267751)
 
+<br><br>
 
 10.	Below the species prediction tool, you can view the accuracy analysis for the model, including the accuracy percentage and the confusion matrix.
 
