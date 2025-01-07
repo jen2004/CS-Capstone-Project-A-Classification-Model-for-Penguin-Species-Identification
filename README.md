@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/3d5a3e2c-7bc6-40b2-bc72-ca535d60edbe" width="600" />
 
-Photo Source: Kristen Gorman
+<strong> Photo Source: Kristen Gorman </strong>
 
 I completed this project during my 5th semester at WGU as a part of the class Computer Science Capstone C964.
 
