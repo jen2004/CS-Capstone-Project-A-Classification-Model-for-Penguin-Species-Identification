@@ -1,5 +1,7 @@
 # CS Capstone Project: A Classification Model for Penguin Species Identification
 
+![Penguins](https://github.com/user-attachments/assets/3d5a3e2c-7bc6-40b2-bc72-ca535d60edbe)
+
 I completed this project during my 5th semester at WGU as a part of the class Computer Science Capstone C964.
 
 For this project, I developed a machine-learning-based tool for the fictional World Penguin Conservation Organization (WPCO) to improve penguin species identification in the field. By utilizing the Palmer Penguins Dataset, the tool predicts species based on two simple features: bill length and bill depth. It replaces traditional methods that are time-intensive, invasive, and potentially stressful for penguins, while also reducing risks to researchers working in harsh Antarctic environments. The user-friendly tool, implemented in a Jupyter Notebook hosted on Google Colab, allows researchers to input bill measurements and obtain predictions within seconds, enhancing both efficiency and accuracy.
