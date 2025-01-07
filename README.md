@@ -1,6 +1,6 @@
 # CS Capstone Project: A Classification Model for Penguin Species Identification
 
-<img src="https://github.com/user-attachments/assets/3d5a3e2c-7bc6-40b2-bc72-ca535d60edbe" width="400" />
+<img src="https://github.com/user-attachments/assets/3d5a3e2c-7bc6-40b2-bc72-ca535d60edbe" width="600" />
 
 Photo Source: Kristen Gorman
 
