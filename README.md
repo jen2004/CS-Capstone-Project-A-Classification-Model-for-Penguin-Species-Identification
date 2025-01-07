@@ -1,6 +1,8 @@
 # CS Capstone Project: A Classification Model for Penguin Species Identification
 
-![Penguins](https://github.com/user-attachments/assets/3d5a3e2c-7bc6-40b2-bc72-ca535d60edbe)
+<img src="https://github.com/user-attachments/assets/3d5a3e2c-7bc6-40b2-bc72-ca535d60edbe" width="400" />
+
+Photo Source: Kristen Gorman
 
 I completed this project during my 5th semester at WGU as a part of the class Computer Science Capstone C964.
 
