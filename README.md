@@ -14,7 +14,7 @@ For the complete project requirements, please refer to the “Task Overview.pdf�
 
 For my complete project report, refer to “Capstone Report.pdf”.
 
-Quick Start User Guide
+<strong>Quick Start User Guide</strong>
 
 To open and use the Penguin Species Classification Tool and the Descriptive Methods and Visualizations Tool, you will need the following:
 1.	Windows 10 or higher.
