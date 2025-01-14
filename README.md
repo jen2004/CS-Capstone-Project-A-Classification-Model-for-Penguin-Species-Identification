@@ -14,6 +14,8 @@ For the complete project requirements, please refer to the “Task Overview.pdf�
 
 For my complete project report, refer to “Capstone Report.pdf”.
 
+For instructions on how to use the tool, scroll down to the botoom of this page.
+
 Here is a GIF of the classification model in use:
 
 ![Classifier Tool Demo](./1.gif)
