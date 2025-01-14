@@ -14,6 +14,10 @@ For the complete project requirements, please refer to the “Task Overview.pdf�
 
 For my complete project report, refer to “Capstone Report.pdf”.
 
+Here is a GIF of the classification model in use:
+
+![Classifier Tool Demo](./1.gif)
+
 <strong>Quick Start User Guide</strong>
 
 To open and use the Penguin Species Classification Tool and the Descriptive Methods and Visualizations Tool, you will need the following:
